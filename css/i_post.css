@@ -113,10 +113,10 @@ code {
 }
 
 code {
-    padding: 2px 4px;
+    padding: 3px 5px;
     word-wrap: break-word;
-    color: #555;
-    background: #eee;
+    color: #c39d6d;
+    background: rgba(195, 157, 109, 0.1);
     border-radius: 3px;
     font-size: 13px;
 }
